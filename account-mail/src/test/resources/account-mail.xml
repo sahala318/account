@@ -6,7 +6,7 @@
 		class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer"
 		abstract="false" lazy-init="default" autowire="default" >
 		<qualifier></qualifier>
-		<property name="location" value="classpath:service.properties"></property>
+		<property name="location" value="classpath:acount-mail.properties"></property>
 	</bean>
 	<bean id="javaMailSender"
 		class="org.springframework.mail.javamail.JavaMailSenderImpl"

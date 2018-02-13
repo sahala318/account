@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="org.sahala.mywebsite.account.account_mail.AccountEmailServiceTest" time="0.804" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="org.sahala.mywebsite.account.account_mail.AccountEmailServiceTest" time="0.978" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="9.0.0.1-redhat+1"/>
     <property name="sun.boot.library.path" value="C:\RedHat\java-1.9.0-openjdk-1.9.0.1-1\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="D:\JavaTest\account-aggregator"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\git\account-project\account-aggregator"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="user.country" value="CN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="D:\JavaTest\account-aggregator"/>
+    <property name="user.dir" value="D:\git\account-project\account-aggregator"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="java.runtime.version" value="9.0.0.1-redhat+1"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
@@ -64,5 +64,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="org.sahala.mywebsite.account.account_mail.AccountEmailServiceTest" name="testSendMail" time="0.804"/>
+  <testcase classname="org.sahala.mywebsite.account.account_mail.AccountEmailServiceTest" name="testSendMail" time="0.978"/>
 </testsuite>

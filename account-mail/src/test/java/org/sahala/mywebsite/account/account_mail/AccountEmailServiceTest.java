@@ -34,7 +34,7 @@ public class AccountEmailServiceTest {
 	
 	@Test
 	public void testSendMail() {
-		ApplicationContext ctx = new ClassPathXmlApplicationContext("account-email.xml");
+		ApplicationContext ctx = new ClassPathXmlApplicationContext("account-mail.xml");
 		AccountEmailService accountEmailService = (AccountEmailService)ctx.getBean("accountMailService");
 		
 		String subject ="Test subject";

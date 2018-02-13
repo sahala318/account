@@ -4,7 +4,7 @@
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="9.0.0.1-redhat+1"/>
     <property name="sun.boot.library.path" value="C:\RedHat\java-1.9.0-openjdk-1.9.0.1-1\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="D:\JavaTest\account-aggregator"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\git\account-project\account-aggregator"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="user.country" value="CN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="D:\JavaTest\account-aggregator"/>
+    <property name="user.dir" value="D:\git\account-project\account-aggregator"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="java.runtime.version" value="9.0.0.1-redhat+1"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
