@@ -8,6 +8,7 @@
   <name>account-aggregator</name>
   <build/>
   <modules>
+  	<module>/account-parent</module>
   	<module>../account-mail</module>
   	<module>../account-persist</module>
   </modules>
