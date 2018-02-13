@@ -196,6 +196,6 @@
     </dependency>
   </dependencies>
   <build>
-    <testOutputDirectory>d:\javatest0\account-persist\</testOutputDirectory>
+    <!-- <testOutputDirectory>d:\javatest0\account-persist\</testOutputDirectory> -->
   </build>
 </project>
