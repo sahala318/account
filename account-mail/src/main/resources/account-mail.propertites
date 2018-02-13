@@ -1,0 +1,8 @@
+email.protocol=smtp
+email.host=smtp.gmail.com
+email.port=465
+email.username=xxx
+email.password=xxx
+email.auth=true
+email.smtp.auth=true
+email.systemEmail=yourid@yun.com

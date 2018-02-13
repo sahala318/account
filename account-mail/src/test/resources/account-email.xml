@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.1.xsd">
+
+
+	<bean id="propertyConfigurer"
+		class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer"
+		abstract="false" lazy-init="default" autowire="default" >
+		<qualifier></qualifier>
+		<property name="location" value="classpath:service.properties"></property>
+	</bean>
+	<bean id="javaMailSender"
+		class="org.springframework.mail.javamail.JavaMailSenderImpl"
+		abstract="false" lazy-init="default" autowire="default">
+		<property name="protocol" value="${email.protocol}"></property>
+		<property name="host" value="${email.host}"></property>
+		<property name="port" value="${email.port}"></property>
+		<property name="username" value="${email.username}"></property>
+		<property name="password" value="${email.password}"></property>
+		<property name="javaMailProperties">
+			<props>
+				<prop key="mail.${email.protocol}.auth">${email.auth}</prop>
+			</props>
+		</property>
+	</bean>
+	<bean id="accountMailService"
+		class="org.sahala.mywebsite.account.account_mail.AccountEmailServiceImpl"
+		abstract="false" lazy-init="default" autowire="default">
+		<property name="javaMailSender" ref="javaMailSender"></property>
+		<property name="systemEmail" value="${email.systemEmail}"></property>
+	</bean></beans>
