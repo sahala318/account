@@ -29,6 +29,7 @@ public class AccountEmailServiceTest {
 		greenMail.setUser("test", "123");
 		greenMail.start();
 		
+		System.out.println("begin test greenmail.");
 		System.out.println(greenMail.getSmtp().getName() +"/"+ greenMail.getSmtp().getPort());
 	}
 	
