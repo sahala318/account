@@ -11,5 +11,6 @@
   	<module>/account-parent</module>
   	<module>../account-mail</module>
   	<module>../account-persist</module>
+  	<module>../account-captcha</module>
   </modules>
 </project>
