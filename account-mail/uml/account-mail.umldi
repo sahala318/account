@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagrams:Diagrams xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:di="http://www.topcased.org/DI/1.0" xmlns:diagrams="http://www.topcased.org/Diagrams/1.0" xmi:id="_AWLeMBeWEeijj5eRJ0RkkQ" activeDiagram="_AWqmYBeWEeijj5eRJ0RkkQ">
+  <model href="account-mail.uml#__5apsReVEeijj5eRJ0RkkQ"/>
+  <diagrams xmi:id="_AWqmYBeWEeijj5eRJ0RkkQ" position="0,0" size="100,100" name="account-mail" viewport="0,207">
+    <property xmi:id="_A65U0BeWEeijj5eRJ0RkkQ" key="pageFormatName" value="A4"/>
+    <property xmi:id="_A6574BeWEeijj5eRJ0RkkQ" key="diagramWidth" value="840"/>
+    <property xmi:id="_A6574ReWEeijj5eRJ0RkkQ" key="diagramHeight" value="1188"/>
+    <property xmi:id="_A6574heWEeijj5eRJ0RkkQ" key="pageMarginName" value="Small Margin"/>
+    <property xmi:id="_A6574xeWEeijj5eRJ0RkkQ" key="diagramTopMargin" value="20"/>
+    <property xmi:id="_A6575BeWEeijj5eRJ0RkkQ" key="diagramBottomMargin" value="20"/>
+    <property xmi:id="_A6575ReWEeijj5eRJ0RkkQ" key="diagramLeftMargin" value="20"/>
+    <property xmi:id="_A6575heWEeijj5eRJ0RkkQ" key="diagramRightMargin" value="20"/>
+    <property xmi:id="_A6575xeWEeijj5eRJ0RkkQ" key="orientation" value="portrait"/>
+    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_AWqmYReWEeijj5eRJ0RkkQ" presentation="org.topcased.modeler.uml.classdiagram">
+      <element href="account-mail.uml#__5apsReVEeijj5eRJ0RkkQ"/>
+    </semanticModel>
+    <contained xsi:type="di:GraphNode" xmi:id="_BRXUEBeWEeijj5eRJ0RkkQ" position="35,34" size="760,1119">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BRXUEReWEeijj5eRJ0RkkQ" presentation="default">
+        <element href="account-mail.uml#_ACzPMBeWEeijj5eRJ0RkkQ"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_BT5DoBeWEeijj5eRJ0RkkQ" position="15,10" size="730,1057">
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BT5DoReWEeijj5eRJ0RkkQ" presentation="default">
+          <element href="account-mail.uml#_ADUzoBeWEeijj5eRJ0RkkQ"/>
+        </semanticModel>
+        <contained xsi:type="di:GraphNode" xmi:id="_BT7f4BeWEeijj5eRJ0RkkQ" position="15,10" size="700,995">
+          <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BT7f4ReWEeijj5eRJ0RkkQ" presentation="default">
+            <element href="account-mail.uml#_ADUzoReWEeijj5eRJ0RkkQ"/>
+          </semanticModel>
+          <contained xsi:type="di:GraphNode" xmi:id="_BT-jMBeWEeijj5eRJ0RkkQ" position="15,10" size="670,933">
+            <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BT-jMReWEeijj5eRJ0RkkQ" presentation="default">
+              <element href="account-mail.uml#_ADUzoheWEeijj5eRJ0RkkQ"/>
+            </semanticModel>
+            <contained xsi:type="di:GraphNode" xmi:id="_BUA_cBeWEeijj5eRJ0RkkQ" position="15,10" size="640,871">
+              <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BUA_cReWEeijj5eRJ0RkkQ" presentation="default">
+                <element href="account-mail.uml#_ADUzoxeWEeijj5eRJ0RkkQ"/>
+              </semanticModel>
+              <contained xsi:type="di:GraphNode" xmi:id="_BUDbsBeWEeijj5eRJ0RkkQ" position="39,10" size="562,-1">
+                <anchorage xmi:id="_BVxS8BeWEeijj5eRJ0RkkQ" graphEdge="_BW6icBeWEeijj5eRJ0RkkQ"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BUDbsReWEeijj5eRJ0RkkQ" presentation="default">
+                  <element href="account-mail.uml#_ADucQBeWEeijj5eRJ0RkkQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_BUDbsheWEeijj5eRJ0RkkQ">
+                  <property xmi:id="_BUDbsxeWEeijj5eRJ0RkkQ" key="eStructuralFeatureID" value="37"/>
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BUDbtBeWEeijj5eRJ0RkkQ" presentation="default">
+                    <element href="account-mail.uml#_ADucQBeWEeijj5eRJ0RkkQ"/>
+                  </semanticModel>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BUybgBeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BUybgReWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_AKWBoBeWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BU5JMBeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BU5JMReWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_ANli4BeWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_BUDbtReWEeijj5eRJ0RkkQ">
+                  <property xmi:id="_BUECwBeWEeijj5eRJ0RkkQ" key="eStructuralFeatureID" value="47"/>
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BUECwReWEeijj5eRJ0RkkQ" presentation="default">
+                    <element href="account-mail.uml#_ADucQBeWEeijj5eRJ0RkkQ"/>
+                  </semanticModel>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BU8zkBeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BU9aoBeWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_ANyXMBeWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BVDhQBeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BVDhQReWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_AN3PsBeWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BVJA0BeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BVJA0ReWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_AN6TABeWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BVNSQBeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BVN5UBeWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_AN8vQBeWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BVPHcBeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BVPHcReWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_AN_LgBeWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                </contained>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_BUdEUBeWEeijj5eRJ0RkkQ" position="15,728" size="400,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BUdEUReWEeijj5eRJ0RkkQ" presentation="default">
+                  <element href="account-mail.uml#_AD73oBeWEeijj5eRJ0RkkQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_BUdEUheWEeijj5eRJ0RkkQ">
+                  <property xmi:id="_BUdEUxeWEeijj5eRJ0RkkQ" key="eStructuralFeatureID" value="37"/>
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BUdEVBeWEeijj5eRJ0RkkQ" presentation="default">
+                    <element href="account-mail.uml#_AD73oBeWEeijj5eRJ0RkkQ"/>
+                  </semanticModel>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BVRjsBeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BVRjsReWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_AOFSIBeWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_BUdEVReWEeijj5eRJ0RkkQ">
+                  <property xmi:id="_BUdEVheWEeijj5eRJ0RkkQ" key="eStructuralFeatureID" value="47"/>
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BUdEVxeWEeijj5eRJ0RkkQ" presentation="default">
+                    <element href="account-mail.uml#_AD73oBeWEeijj5eRJ0RkkQ"/>
+                  </semanticModel>
+                </contained>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_BUe5gBeWEeijj5eRJ0RkkQ" position="39,264" size="562,-1">
+                <anchorage xmi:id="_BVxS8ReWEeijj5eRJ0RkkQ" graphEdge="_BW6icBeWEeijj5eRJ0RkkQ"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BUe5gReWEeijj5eRJ0RkkQ" presentation="default">
+                  <element href="account-mail.uml#_AEBXMBeWEeijj5eRJ0RkkQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_BUe5gheWEeijj5eRJ0RkkQ">
+                  <property xmi:id="_BUe5gxeWEeijj5eRJ0RkkQ" key="eStructuralFeatureID" value="37"/>
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BUe5hBeWEeijj5eRJ0RkkQ" presentation="default">
+                    <element href="account-mail.uml#_AEBXMBeWEeijj5eRJ0RkkQ"/>
+                  </semanticModel>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_BUe5hReWEeijj5eRJ0RkkQ">
+                  <property xmi:id="_BUe5hheWEeijj5eRJ0RkkQ" key="eStructuralFeatureID" value="38"/>
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BUe5hxeWEeijj5eRJ0RkkQ" presentation="default">
+                    <element href="account-mail.uml#_AEBXMBeWEeijj5eRJ0RkkQ"/>
+                  </semanticModel>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BVT_8BeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BVT_8ReWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_AOJjkBeWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                </contained>
+              </contained>
+              <contained xsi:type="di:GraphNode" xmi:id="_BUjyABeWEeijj5eRJ0RkkQ" position="27,420" size="517,-1">
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BUjyAReWEeijj5eRJ0RkkQ" presentation="default">
+                  <element href="account-mail.uml#_AEDMYBeWEeijj5eRJ0RkkQ"/>
+                </semanticModel>
+                <contained xsi:type="di:GraphNode" xmi:id="_BUjyAheWEeijj5eRJ0RkkQ">
+                  <property xmi:id="_BUjyAxeWEeijj5eRJ0RkkQ" key="eStructuralFeatureID" value="37"/>
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BUjyBBeWEeijj5eRJ0RkkQ" presentation="default">
+                    <element href="account-mail.uml#_AEDMYBeWEeijj5eRJ0RkkQ"/>
+                  </semanticModel>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BVV1IBeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BVV1IReWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_AOQRQBeWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                </contained>
+                <contained xsi:type="di:GraphNode" xmi:id="_BUjyBReWEeijj5eRJ0RkkQ">
+                  <property xmi:id="_BUjyBheWEeijj5eRJ0RkkQ" key="eStructuralFeatureID" value="47"/>
+                  <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BUjyBxeWEeijj5eRJ0RkkQ" presentation="default">
+                    <element href="account-mail.uml#_AEDMYBeWEeijj5eRJ0RkkQ"/>
+                  </semanticModel>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BVWcMBeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BVWcMReWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_AOVw0ReWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BVXqUBeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BVXqUReWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_AOaCQBeWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BVY4cBeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BVY4cReWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_AOdsoBeWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BVaGkBeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BVaGkReWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_AOilIBeWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BVe_EBeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BVe_EReWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_AOpS0BeWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BVj3kBeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BVj3kReWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_AOvZcBeWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                  <contained xsi:type="di:GraphNode" xmi:id="_BVlswBeWEeijj5eRJ0RkkQ" position="0,0" size="-1,-1">
+                    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BVlswReWEeijj5eRJ0RkkQ" presentation="default">
+                      <element href="account-mail.uml#_AO2uMBeWEeijj5eRJ0RkkQ"/>
+                    </semanticModel>
+                  </contained>
+                </contained>
+              </contained>
+              <contained xsi:type="di:GraphEdge" xmi:id="_BW6icBeWEeijj5eRJ0RkkQ" anchor="_BVxS8BeWEeijj5eRJ0RkkQ _BVxS8ReWEeijj5eRJ0RkkQ">
+                <property xmi:id="_BfhE0BeWEeijj5eRJ0RkkQ" key="router" value="Automatic"/>
+                <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_BW6icReWEeijj5eRJ0RkkQ" presentation="default">
+                  <element href="account-mail.uml#_AKMQoBeWEeijj5eRJ0RkkQ"/>
+                </semanticModel>
+                <contained xsi:type="di:EdgeObjectOffset" xmi:id="_BW6icheWEeijj5eRJ0RkkQ" id="stereotypeEdgeObject"/>
+              </contained>
+            </contained>
+          </contained>
+        </contained>
+      </contained>
+    </contained>
+  </diagrams>
+  <subdiagrams xmi:id="_voGscBeXEeijj5eRJ0RkkQ">
+    <model href="account-mail.uml#_ADUzoheWEeijj5eRJ0RkkQ"/>
+  </subdiagrams>
+</diagrams:Diagrams>
