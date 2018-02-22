@@ -17,7 +17,7 @@
 	<name>account-persist</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<dom4j.verison>2.1.0</dom4j.verison>
+		<dom4j.verison>1.6.1</dom4j.verison>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<dependencies>
@@ -25,12 +25,19 @@
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi</artifactId>
 		</dependency>
-
+		<!-- https://mvnrepository.com/artifact/dom4j/dom4j -->
+<dependency>
+    <groupId>dom4j</groupId>
+    <artifactId>dom4j</artifactId>
+    <version>${dom4j.verison}</version>
+</dependency>
+		
+		<!-- 
 		<dependency>
 			<groupId>org.dom4j</groupId>
 			<artifactId>dom4j</artifactId>
 			<version>${dom4j.verison}</version>
-		</dependency>
+		</dependency> -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
@@ -38,10 +45,6 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-aop</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-asm</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework</groupId>
